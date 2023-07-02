@@ -1,0 +1,41 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~47.0.14",
+    "expo-status-bar": "~1.4.2",
+    "react": "18.1.0",
+    "react-native": "0.70.8",
+    "axios": "*",
+    "native-base": "*",
+    "lodash.filter": "*",
+    "expo-constants": "~11.0.2",
+    "victory-native": "*",
+    "react-native-svg": "12.1.1",
+    "@expo/vector-icons": "^12.0.0",
+    "react-native-paper": "3.6.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-elements": "*",
+    "react-native-chart-kit": "*",
+    "@react-navigation/stack": "*",
+    "@react-navigation/native": "*",
+    "react-native-navbar-color": "*",
+    "react-native-vector-icons": "*",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-pull-to-refresh": "2.1.3",
+    "@react-navigation/bottom-tabs": "*",
+    "@react-navigation/native-stack": "*",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-navigation-bar-color": "*",
+    "react-native-system-navigation-bar": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}

@@ -1,0 +1,39 @@
+{
+
+  
+  "androidNavigationBar": {
+      "backgroundColor": "#880000"
+    },
+  
+  "expo": {
+    "name": "Alpha Chain",
+    "slug": "Alpha Chain",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/yourIconName.png",
+"splash": {
+  "image": "./assets/yourSplashNmae.png", 
+  "resizeMode": "contain",
+  "backgroundColor": "#ffffff"
+},
+
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

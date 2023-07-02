@@ -1,0 +1,20 @@
+https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50&page=1&sparkline=false
+
+https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=1
+
+
+https://coinmarketcap.com/
+
+
+
+
+
+some subreddits :
+
+
+https://www.reddit.com/r/reactjs/
+https://www.reddit.com/r/reactnative/
+https://www.reddit.com/r/MachineLearning/
+https://www.reddit.com/r/ArtificialInteligence/
+https://www.reddit.com/r/crypto/
+https://www.reddit.com/r/CryptoCurrency/
