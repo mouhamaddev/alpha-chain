@@ -1,3 +1,3 @@
 # Alpha Chain
 
-![Alt text](screenshot.jpg?raw=true "preview-1")
+![Alt text](screenshot.jpeg?raw=true "preview-1")
